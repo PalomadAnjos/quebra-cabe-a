@@ -1,6 +1,6 @@
-{
-    margin: 0;
-    padding: 0;
-    background-color:blank
-
+.quebra-cabeça{
+ width: 500px;
+ height: 400px;
+ font-display: flex;
+ flex-wrap: wrap;
 }
